@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/node-functions/edgeone"
+    }
+  ]
+}
