@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/edgeone",
+      "statusCode": 301
+    }
+  ]
+}
